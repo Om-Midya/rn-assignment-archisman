@@ -13,6 +13,7 @@
   "dependencies": {
     "expo": "^54.0.0",
     "expo-status-bar": "~3.0.8",
+    "moti": "^0.30.0",
     "nativewind": "latest",
     "react": "19.1.0",
     "react-native": "0.81.5",
